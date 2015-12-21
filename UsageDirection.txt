@@ -1,0 +1,11 @@
+
+This script should be runned in Linux terminal.
+
+To capture the packets through a specified protocal and a specified process, the script need two parameters:
+
+1. process name like 'chrome' or it's pid
+
+2. a protocol like 'tcp'
+
+Then the result will be stored in a file named 'packet.pcap'
+.
